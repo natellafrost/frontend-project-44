@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "bin": {
+    "brain-even": "bin/brain-even.js",
+    "brain-games": "bin/brain-games.js"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "tinypool": "^2.2.0"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.73.0",
+    "oxlint": "^1.88.0"
+  }
+}
