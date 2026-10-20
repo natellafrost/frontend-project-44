@@ -50,6 +50,16 @@ brain-calc
 
 [![asciicast](https://asciinema.org/a/LBQNoigrbDcCFsCj.svg)](https://asciinema.org/a/LBQNoigrbDcCFsCj)
 
+### Brain GCD — наибольший общий делитель
+
+Нужно найти НОД двух чисел. Три правильных ответа подряд — победа.
+
+```bash
+brain-gcd
+```
+[![asciicast](https://asciinema.org/a/2SmKAnJoNi0i6ItC.svg)](https://asciinema.org/a/2SmKAnJoNi0i6ItC)
+
+
 ---
 
 <details>

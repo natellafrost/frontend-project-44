@@ -18,3 +18,5 @@ lint:
 
 format:
 	npx oxfmt --ignore-path=.oxfmtignore
+brain-gcd:
+	node bin/brain-gcd.js
