@@ -22,7 +22,33 @@ cd frontend-project-44
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+После установки доступны три игры. Запускаются из любой директории.
+
+### Brain Games — приветствие
+
+```bash
+brain-games
+```
+
+### Brain Even — проверка числа на чётность
+
+Нужно ответить `yes`, если число чётное, иначе `no`. Три правильных ответа подряд — победа.
+
+```bash
+brain-even
+```
+
+[![asciicast](https://asciinema.org/a/996emcVgknU8l7re.svg)](https://asciinema.org/a/996emcVgknU8l7re)
+
+### Brain Calc — калькулятор
+
+Нужно вычислить результат выражения (`+`, `-`, `*`). Три правильных ответа подряд — победа.
+
+```bash
+brain-calc
+```
+
+[![asciicast](https://asciinema.org/a/LBQNoigrbDcCFsCj.svg)](https://asciinema.org/a/LBQNoigrbDcCFsCj)
 
 ---
 
