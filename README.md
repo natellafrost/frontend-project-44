@@ -70,6 +70,16 @@ brain-progression
 
 [![asciicast](https://asciinema.org/a/OzJCsX77GrvpEDvo.svg)](https://asciinema.org/a/OzJCsX77GrvpEDvo)
 
+### Brain Prime — простое ли число
+
+Нужно ответить `yes`, если число простое, иначе `no`. Три правильных ответа подряд — победа.
+
+```bash
+brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/zLtrsGhTLEV9Y0jb.svg)](https://asciinema.org/a/zLtrsGhTLEV9Y0jb)
+
 
 ---
 
