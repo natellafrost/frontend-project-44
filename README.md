@@ -57,7 +57,18 @@ brain-calc
 ```bash
 brain-gcd
 ```
+
 [![asciicast](https://asciinema.org/a/2SmKAnJoNi0i6ItC.svg)](https://asciinema.org/a/2SmKAnJoNi0i6ItC)
+
+### Brain Progression — арифметическая прогрессия
+
+Нужно определить число, скрытое за `..` в арифметической прогрессии. Три правильных ответа подряд — победа.
+
+```bash
+brain-progression
+```
+
+[![asciicast](https://asciinema.org/a/OzJCsX77GrvpEDvo.svg)](https://asciinema.org/a/OzJCsX77GrvpEDvo)
 
 
 ---
