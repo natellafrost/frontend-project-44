@@ -80,7 +80,6 @@ brain-prime
 
 [![asciicast](https://asciinema.org/a/zLtrsGhTLEV9Y0jb.svg)](https://asciinema.org/a/zLtrsGhTLEV9Y0jb)
 
-
 ---
 
 <details>
